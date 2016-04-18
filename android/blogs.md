@@ -1,5 +1,5 @@
-Name | Links 
------------- | ------------- 
+Name | Links
+------------ | -------------
 Android Developer Blog | http://android-developers.blogspot.in/
 Techno Talkative  | http://www.technotalkative.com/
 Android Weekly | http://androidweekly.net/
@@ -20,5 +20,9 @@ AndroidGig | http://androidgig.com/
 Styling Android | https://blog.stylingandroid.com/
 Android UI/UX | http://androiduiux.com/
 Android UI Patterns | http://www.androiduipatterns.com/
-Future Studio Blog | https://futurestud.io/blog
+Future Studio Blog | https://futurestud.io/blog/
 Rebecca Franks | http://riggaroo.co.za/
+Grafix Artist | http://blog.grafixartist.com/
+Antonio Leiva | http://antonioleiva.com/
+Droids on Roids | http://www.thedroidsonroids.com/category/blog/android/
+Vogella | http://www.vogella.com/tutorials/android.html
